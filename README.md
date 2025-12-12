@@ -4,10 +4,13 @@ Project is designed to quickly build presentation as a web page.
 
 To create your presentation just fork this repository.
 
-presentation example https://roland-fan-zhang.github.io/presentation
+presentation : https://roland-fan-zhang.github.io/presentation
 
 
 **NOTES**
+- Install Jekyll : https://jekyllrb.com/docs/installation/
+- Clone the repo then `jekyll serve` (localhost:4000)
+- Markdown source files in `_posts` directory
 
 - Files names should start with valid  year-month-day format (f.e. 1000-01-01-example.md)
 
@@ -18,6 +21,3 @@ presentation example https://roland-fan-zhang.github.io/presentation
 - Presentation pages will be displayed in chronological order
 
 - GitHub Pages will automatically generate/update website with presentation for you (please wait up to 1 minute)
-
-
-Enjoy
