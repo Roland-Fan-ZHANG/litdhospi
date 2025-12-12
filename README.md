@@ -2,9 +2,7 @@
 
 Project is designed to quickly build presentation as a web page.
 
-To create your presentation just fork this repository.
-
-presentation : https://roland-fan-zhang.github.io/presentation
+url : https://roland-fan-zhang.github.io/presentation
 
 
 **NOTES**
