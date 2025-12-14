@@ -4,18 +4,21 @@ Project is designed to quickly build presentation as a web page.
 
 url : https://roland-fan-zhang.github.io/litdhospi
 
+**Setup**
+- Jekyll est écrit en Ruby donc il faudra installer le langage ainsi que RubyGems qui est un gestionnaire de package (un peu comme npm mais pour ruby) pour installer Jekyll.
+- Installer Jekyll : https://jekyllrb.com/docs/installation/
+- Cloner le projet puis `jekyll serve` pour lancer en local sur le port 4000
+- Pour modifier les slides (les markdowns) ce sera dans le dossier `_posts`
 
-**NOTES**
-- Install Jekyll : https://jekyllrb.com/docs/installation/
-- Clone the repo then `jekyll serve` (localhost:4000)
-- Markdown source files in `_posts` directory
+**IMPORTANT**
 
-- Files names should start with valid  year-month-day format (f.e. 1000-01-01-example.md)
+* Les noms de fichiers doivent commencer par un format **année-mois-jour valide** (par exemple : `1000-01-01-example.md`).
 
-- Years will be displayed horizontally  
+* Les **années** seront affichées **horizontalement**.
 
-- Months will be displayed as vertical navigation in a given year
+* Les **mois** seront affichés sous forme de **navigation verticale** pour une année donnée.
 
-- Presentation pages will be displayed in chronological order
+* Les **pages de présentation** seront affichées **dans l’ordre chronologique**.
 
-- GitHub Pages will automatically generate/update website with presentation for you (please wait up to 1 minute)
+* **GitHub Pages** générera/mettra à jour automatiquement le site web avec la présentation (merci d’attendre jusqu’à **1 minute** le temps que ça publish).
+
